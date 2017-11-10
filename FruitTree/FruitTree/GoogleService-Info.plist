@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>709537131810-1duj0rj43qu171s76ns4mevl7s5jvghc.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.709537131810-1duj0rj43qu171s76ns4mevl7s5jvghc</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOm5avFMmUnD7mfg1-b6Pk8uny5JH3qXE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>709537131810</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>UnderratedDev.FruitTree</string>
+	<key>PROJECT_ID</key>
+	<string>fruit-tree-1504209568018</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fruit-tree-1504209568018.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:709537131810:ios:983f562e19c8ea2b</string>
+	<key>DATABASE_URL</key>
+	<string>https://fruit-tree-1504209568018.firebaseio.com</string>
+</dict>
+</plist>

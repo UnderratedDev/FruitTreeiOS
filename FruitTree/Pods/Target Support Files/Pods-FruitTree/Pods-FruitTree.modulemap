@@ -1,0 +1,6 @@
+framework module Pods_FruitTree {
+  umbrella header "Pods-FruitTree-umbrella.h"
+
+  export *
+  module * { export * }
+}
