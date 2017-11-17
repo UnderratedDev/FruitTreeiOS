@@ -16,6 +16,7 @@
 		B91F953F1FB565C7009BAD0A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B91F953D1FB565C7009BAD0A /* LaunchScreen.storyboard */; };
 		B91F954A1FB565C7009BAD0A /* FruitTreeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91F95491FB565C7009BAD0A /* FruitTreeTests.swift */; };
 		B91F95551FB565C7009BAD0A /* FruitTreeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B91F95541FB565C7009BAD0A /* FruitTreeUITests.swift */; };
+		B9561DA41FBE9F9F00FBECB2 /* Reachability.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9561DA31FBE9F9F00FBECB2 /* Reachability.swift */; };
 		B9B18C601FB56C4F00735DB1 /* GoogleService-Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = B9B18C5F1FB56C4F00735DB1 /* GoogleService-Info.plist */; };
 		B9B18C621FB56F4500735DB1 /* Location.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B18C611FB56F4500735DB1 /* Location.swift */; };
 		B9B18C641FB56F7400735DB1 /* Notifications.swift in Sources */ = {isa = PBXBuildFile; fileRef = B9B18C631FB56F7400735DB1 /* Notifications.swift */; };
@@ -67,6 +68,7 @@
 		B91F95501FB565C7009BAD0A /* FruitTreeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FruitTreeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B91F95541FB565C7009BAD0A /* FruitTreeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FruitTreeUITests.swift; sourceTree = "<group>"; };
 		B91F95561FB565C7009BAD0A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B9561DA31FBE9F9F00FBECB2 /* Reachability.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Reachability.swift; sourceTree = "<group>"; };
 		B9B18C5F1FB56C4F00735DB1 /* GoogleService-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "GoogleService-Info.plist"; sourceTree = "<group>"; };
 		B9B18C611FB56F4500735DB1 /* Location.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Location.swift; sourceTree = "<group>"; };
 		B9B18C631FB56F7400735DB1 /* Notifications.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Notifications.swift; sourceTree = "<group>"; };
@@ -155,6 +157,7 @@
 				B9B18C6F1FB57F3100735DB1 /* VCMapView.swift */,
 				B91F95361FB565C7009BAD0A /* SecondViewController.swift */,
 				B9B18C631FB56F7400735DB1 /* Notifications.swift */,
+				B9561DA31FBE9F9F00FBECB2 /* Reachability.swift */,
 				B91F953D1FB565C7009BAD0A /* LaunchScreen.storyboard */,
 				B9BB0AFE1FB592D900F2ED02 /* Assets.xcassets */,
 				B91F95381FB565C7009BAD0A /* Main.storyboard */,
@@ -513,6 +516,7 @@
 			files = (
 				B9B18C641FB56F7400735DB1 /* Notifications.swift in Sources */,
 				B9B18C6C1FB579CA00735DB1 /* Marker.swift in Sources */,
+				B9561DA41FBE9F9F00FBECB2 /* Reachability.swift in Sources */,
 				B9B18C701FB57F3100735DB1 /* VCMapView.swift in Sources */,
 				B91F95371FB565C7009BAD0A /* SecondViewController.swift in Sources */,
 				B91F95331FB565C7009BAD0A /* AppDelegate.swift in Sources */,
